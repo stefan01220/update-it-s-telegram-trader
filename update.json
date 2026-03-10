@@ -1,6 +1,7 @@
 {
-    "version":  "0.1.12",
-    "download_url":  "ITSolutionsSignalTrader.exe",
+    "version":  "0.1.13",
+    "download_url":  "ITSolutionsSignalTrader.zip",
+    "filename":  "ITSolutionsSignalTrader.zip",
     "release_date":  "2026-03-10",
-    "sha256":  "2213aa4f215dc3c0a2846fde89dd0b9e9c169c98752fd0e2022ea4496297cb1b"
+    "sha256":  "bd85852a1e5fe22f812b802a3c4428b9f823429fb00b047a4e659a87d95d7efe"
 }
